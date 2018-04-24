@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UBNT Speed Test</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+    <!-- Permission -->
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+
+    <!-- UI -->
+    <string name="process_button_start">Start</string>
+    <string name="process_button_stop">Stop</string>
+    <string name="server_text_getting_location">Getting location…</string>
+    <string name="server_text_getting_data">Getting server…</string>
+    <string name="ping_text_default">Ping</string>
+    <string name="download_text_default">Speed</string>
+
+    <!-- Units -->
+    <string name="ping_text_unit"> ms</string>
+    <string name="download_text_unit"> Mbps</string>
+</resources>
